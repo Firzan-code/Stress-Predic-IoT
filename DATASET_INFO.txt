@@ -1,0 +1,17 @@
+stress_dataset_large.csv
+Jumlah data: 500
+
+Kolom:
+- bpm
+- skin_temp
+- stress_level
+
+Distribusi:
+stress_level
+Low       191
+Medium    188
+High      121
+
+Catatan:
+Dataset ini sintetis/demonstrasi untuk project IoT + Random Forest,
+bukan dataset medis dan bukan alat diagnosis.
